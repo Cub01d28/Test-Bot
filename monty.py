@@ -2,7 +2,7 @@ import sys
 import discord
 import os
 import random
-PREFIX = 'm;'
+PREFIX = 't;'
 VERSION = 'v20190804a'
 
 random.seed()
